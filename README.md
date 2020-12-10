@@ -10,6 +10,6 @@ As a challenge, try develop your algorithm of detecting the heartbeat rate.
 
 #
 
-% Breath      ●           
-%    &       /█\ ----- ┝█ mmWave Radar  
-% Heartbeat   ∏           
+Breath......●           
+...&......./█\ ----- ┝█ mmWave Radar  
+Heartbeat...∏           
